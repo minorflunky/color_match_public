@@ -1,0 +1,697 @@
+[
+    {
+      "color": {
+        "L": 91.11684677921977,
+        "A": 1.2384888975109365,
+        "B": -1.1606242003300737
+      },
+      "name": "tassel-eyeshadow",
+      "type": "super-shock-shadow",
+      "hex": "#E7E5E6",
+      "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Tassel_Swatch.png?v=1651596646",
+      "brand" : "Colourpop"
+    },
+    {
+      "color": {
+        "L": 96.26388551746828,
+        "A": 0.7385379439753259,
+        "B": -0.8372356314348961
+      },
+      "name": "peeps-white-eyeshadow",
+      "type": "super-shock-shadow",
+      "hex": "#F5F4F4",
+      "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Peeps-White_Swatch.png?v=1651596646",
+      "brand" : "Colourpop"
+    },
+    {
+      "color": {
+        "L": 88.85223638765676,
+        "A": 4.907516875431616,
+        "B": -9.824928903875584
+      },
+      "name": "ice-dream",
+      "type": "super-shock-shadow",
+      "hex": "#E0DDF0",
+      "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Ice-Dream_Swatch.png?v=1651596646",
+      "brand" : "Colourpop"
+    },
+    {
+      "color": {
+        "L": 97.51104002118585,
+        "A": -0.6372634439976155,
+        "B": 5.173887444059311
+      },
+      "name": "mighty-morphin-ivory-eyeshadow",
+      "type": "super-shock-shadow",
+      "hex": "#FBF8EC",
+      "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Mighty-Morphin_Swatch.png?v=1651596646",
+      "brand" : "Colourpop"
+    },
+    {
+      "color": {
+        "L": 83.6279692683175,
+        "A": 14.176957700391846,
+        "B": 8.287919002003719
+      },
+      "name": "ladybug-super-shock-eyeshadow",
+      "type": "super-shock-shadow",
+      "hex": "#F1C7C0",
+      "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Lady-Bug_Swatch.png?v=1651596646",
+      "brand" : "Colourpop"
+    },
+    {
+      "color": {
+        "L": 63.35750335298121,
+        "A": 24.361912375811258,
+        "B": 27.949385343258193
+      },
+      "name": "ladybird",
+      "type": "super-shock-shadow",
+      "hex": "#D08868",
+      "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Ladybird_Swatch.png?v=1651596646",
+      "brand" : "Colourpop"
+    },
+    {
+      "color": {
+        "L": 89.20765319757095,
+        "A": 6.8892363564007635,
+        "B": 14.16679974703985
+      },
+      "name": "sailor",
+      "type": "super-shock-shadow",
+      "hex": "#F8DBC4",
+      "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Sailor_Swatch.png?v=1651596646",
+      "brand" : "Colourpop"
+    },
+    {
+      "color": {
+        "L": 88.5953367843171,
+        "A": 8.387290597576424,
+        "B": 19.144002862369945
+      },
+      "name": "la-mesa-eyeshadow",
+      "type": "super-shock-shadow",
+      "hex": "#FCD8B9",
+      "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/La-Mesa_Swatch.png?v=1651596646",
+      "brand" : "Colourpop"
+    },
+    {
+      "color": {
+        "L": 82.02733806059808,
+        "A": 11.94238740342879,
+        "B": 9.124840336262817
+      },
+      "name": "frog",
+      "type": "super-shock-shadow",
+      "hex": "#E9C4BA",
+      "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Frog_Swatch.png?v=1651596646",
+      "brand" : "Colourpop"
+    },
+    {
+      "color": {
+        "L": 70.55472738550914,
+        "A": 10.067935938717742,
+        "B": 8.70523030368986
+      },
+      "name": "i-heart-this-shadow",
+      "type": "super-shock-shadow",
+      "hex": "#C5A69C",
+      "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/I-Heart-This_Swatch.png?v=1651596646",
+      "brand" : "Colourpop"
+    },
+    {
+      "color": {
+        "L": 92.09147750889518,
+        "A": 1.1806908657061577,
+        "B": 10.327287003245388
+      },
+      "name": "ritz",
+      "type": "super-shock-shadow",
+      "hex": "#F3E7D3",
+      "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Ritz_Swatch.png?v=1651596646",
+      "brand" : "Colourpop"
+    },
+    {
+      "color": {
+        "L": 77.09865129634501,
+        "A": 16.089735932183103,
+        "B": 20.005309307917287
+      },
+      "name": "amaze",
+      "type": "super-shock-shadow",
+      "hex": "#E8B399",
+      "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Amaze_Swatch.png?v=1651596646",
+      "brand" : "Colourpop"
+    },
+    {
+      "color": {
+        "L": 56.935615529026364,
+        "A": 18.09659499146743,
+        "B": 26.784339483565212
+      },
+      "name": "a-little-quarky-eyeshadow",
+      "type": "super-shock-shadow",
+      "hex": "#B47C5A",
+      "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/A-Little-Quarky_Swatch.png?v=1651596646",
+      "brand" : "Colourpop"
+    },
+    {
+      "color": {
+        "L": 85.05761367298554,
+        "A": 9.76157885581397,
+        "B": 22.60012080174496
+      },
+      "name": "peekaboo",
+      "type": "super-shock-shadow",
+      "hex": "#F6CDA9",
+      "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Peekaboo_Swatch.png?v=1651596646",
+      "brand" : "Colourpop"
+    },
+    {
+      "color": {
+        "L": 98.4200254180762,
+        "A": 0.8885996845686694, "B": 0.8213348245560192
+    },
+    "name": "secret-garden-super-shock-eyeshadow",
+    "type": "super-shock-shadow",
+    "hex": "#FDFAF7",
+    "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Secret-Garden_Swatch.png?v=1651596646",
+    "brand" : "Colourpop"
+  },
+  {
+    "color": {
+      "L": 63.85110599521863,
+      "A": 26.829199556769545,
+      "B": 17.423672241559053
+    },
+    "name": "twitterpated",
+    "type": "super-shock-shadow",
+    "hex": "#D1887C",
+    "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Twitterpated_Swatch.png?v=1651596646",
+    "brand" : "Colourpop"
+  },
+  {
+    "color": {
+      "L": 74.97501017182526,
+      "A": 22.604177586953544,
+      "B": 31.31425795861873
+    },
+    "name": "chirp-super-shock-eyeshadow",
+    "type": "super-shock-shadow",
+    "hex": "#F1A87F",
+    "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Chirp_Swatch.png?v=1651596646",
+    "brand" : "Colourpop"
+  },
+  {
+    "color": {
+      "L": 64.7191395536382,
+      "A": 14.22959695597581,
+      "B": 5.830450876003113
+    },
+    "name": "bill",
+    "type": "super-shock-shadow",
+    "hex": "#BA9492",
+    "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Bill_Swatch.png?v=1651596646",
+    "brand" : "Colourpop"
+  },
+  {
+    "color": {
+      "L": 50.373897559061405,
+      "A": 22.86241021630464,
+      "B": 26.588897924140518
+    },
+    "name": "basic-instinct-neutral-eyeshadow",
+    "type": "super-shock-shadow",
+    "hex": "#A8684B",
+    "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Basic-Instinct_Swatch.png?v=1651596646",
+    "brand" : "Colourpop"
+  },
+  {
+    "color": {
+      "L": 58.17266512410475,
+      "A": 24.084868283083814,
+      "B": 23.567177422015217
+    },
+    "name": "deep-dive",
+    "type": "super-shock-shadow",
+    "hex": "#BF7B63",
+    "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Deep-Dive_Swatch.png?v=1651596646",
+    "brand" : "Colourpop"
+  },
+  {
+    "color": {
+      "L": 68.47436466830368,
+      "A": 18.994221963534674,
+      "B": 16.526515549614416
+    },
+    "name": "sequin",
+    "type": "super-shock-shadow",
+    "hex": "#D29A89",
+    "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Sequin_Swatch.png?v=1651596646",
+    "brand" : "Colourpop"
+  },
+  {
+    "color": {
+      "L": 57.09184285992468,
+      "A": 29.35665319610753,
+      "B": 25.67736702310701
+    },
+    "name": "runyon-eyeshadow",
+    "type": "super-shock-shadow",
+    "hex": "#C4745D",
+    "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Runyon_Swatch.png?v=1651596646",
+    "brand" : "Colourpop"
+  },
+  {
+    "color": {
+      "L": 53.489621872577146,
+      "A": 30.27831524376773,
+      "B": 26.49434970330602
+    },
+    "name": "dgaf",
+    "type": "super-shock-shadow",
+    "hex": "#BB6A53",
+    "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/DGAF_Swatch.png?v=1651596646",
+    "brand" : "Colourpop"
+  },
+  {
+    "color": {
+      "L": 42.971483450179996,
+      "A": 17.688641900001134,
+      "B": 16.15534267092903
+    },
+    "name": "abbot-kinney-eyeshadow",
+    "type": "super-shock-shadow",
+    "hex": "#895A4B",
+    "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Abbot-Kinney_Swatch.png?v=1651596646",
+    "brand" : "Colourpop"
+  },
+  {
+    "color": {
+      "L": 64.81625919622306,
+      "A": 17.30914152627672,
+      "B": 25.83835878734766
+    },
+    "name": "nillionaire",
+    "type": "super-shock-shadow",
+    "hex": "#C9916F",
+    "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Nillionaire_Swatch.png?v=1651596646",
+    "brand" : "Colourpop"
+  },
+  {
+    "color": {
+      "L": 45.25653529642623,
+      "A": 14.805733212125084,
+      "B": 27.511200300723303
+    },
+    "name": "rosebud-super-shock-eyeshadow",
+    "type": "super-shock-shadow",
+    "hex": "#8F613D",
+    "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Rosebud_Swatch.png?v=1651596646",
+    "brand" : "Colourpop"
+  },
+  {
+    "color": {
+      "L": 50.70078689354847,
+      "A": 14.742809994593543,
+      "B": 16.828763291758708
+    },
+    "name": "so-quiche-eyeshadow", 
+    "type": "super-shock-shadow",
+    "hex": "#9A6F5C",
+    "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/So-Quiche_Swatch.png?v=1651596646",
+    "brand" : "Colourpop"
+  },
+  {
+    "color": {
+      "L": 55.1999536588598,
+      "A": 33.85134889404573,
+      "B": 14.982359453042072
+    },
+    "name": "sweet-tea-super-shock-eyeshadow",
+    "type": "super-shock-shadow", 
+    "hex": "#C16C6B",
+    "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Sweet-Tea_Swatch.png?v=1651596646",
+    "brand" : "Colourpop"
+  },
+  {
+    "color": {
+      "L": 59.65300692825937,
+      "A": 26.431816890871985,
+      "B": 7.8279339263266134
+    },
+    "name": "silver-lake-eyeshadow",
+    "type": "super-shock-shadow",
+    "hex": "#C07E82",
+    "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Silver-Lake_Swatch.png?v=1651596646",
+    "brand" : "Colourpop"
+},
+{
+  "color": {
+    "L": 55.42552879957684,
+    "A": 31.45616099539422,
+    "B": 9.335693486077389
+  },
+  "name": "party-of-five",
+  "type": "super-shock-shadow",
+  "hex": "#BC6F75",
+  "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Party-Of-Five_Swatch.png?v=1651596646",
+  "brand" : "Colourpop"
+},
+{
+  "color": {
+    "L": 70.85246460401515,
+    "A": 33.510597931032,
+    "B": 20.91303113909313
+  },
+  "name": "set-to-stun",
+  "type": "super-shock-shadow",
+  "hex": "#F19588",
+  "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Set-To_Stun_Swatch.png?v=1651596646",
+  "brand" : "Colourpop"
+},
+{
+  "color": {
+    "L": 70.85246460401515,
+    "A": 33.510597931032,
+    "B": 20.91303113909313
+  },
+  "name": "heads-up-super-shock-eyeshadow",
+  "type": "super-shock-shadow",
+  "hex": "#F19588",
+  "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Heads-Up_Swatch.png?v=1651596646",
+  "brand" : "Colourpop"
+},
+{
+  "color": {
+    "L": 67.17066720328698,
+    "A": 43.68369096570785,
+    "B": 22.136961326909145
+  },
+  "name": "for-real-eyeshadow",
+  "type": "super-shock-shadow",
+  "hex": "#F5827D",
+  "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/For-Real_Swatch.png?v=1651596646",
+  "brand" : "Colourpop"
+},
+{
+  "color": {
+    "L": 59.84698604324643,
+    "A": 66.00637638178858,
+    "B": 0.3455518376539235
+  },
+  "name": "peeps-pink-eyeshadow",
+  "type": "super-shock-shadow",
+  "hex": "#F55591",
+  "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Peeps-Pink_Swatchcopy.png?v=1651596646",
+  "brand" : "Colourpop"
+},
+{
+  "color": {
+    "L": 55.1538615350713,
+    "A": 35.64510584832947,
+    "B": 19.682767419787893
+  },
+  "name": "roy-g-biv",
+  "type": "super-shock-shadow",
+  "hex": "#C56A63",
+  "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Roy-G-Biv_Swatch.png?v=1651596646",
+  "brand" : "Colourpop"
+},
+{
+  "color": {
+    "L": 20.299040513128645,
+    "A": 28.630121085592375,
+    "B": 11.608030074334863
+  },
+  "name": "drift",
+  "type": "super-shock-shadow",
+  "hex": "#591C21",
+  "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Drift_Swatch.png?v=1651596646",
+  "brand" : "Colourpop"
+},
+{
+  "color": {
+    "L": 32.803211043784636,
+    "A": 51.99022248891127,
+    "B": 38.855833149639196
+  },
+  "name": "cuteologist",
+  "type": "super-shock-shadow",
+  "hex": "#9A1511", 
+  "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Cuteologist_Swatch.png?v=1651596646",
+  "brand" : "Colourpop"
+},
+{
+  "color": {
+    "L": 66.99050435509744,
+    "A": 37.77530877311997,
+    "B": 68.7271798400492
+  },
+  "name": "peeps-orange-eyeshadow",
+  "type": "super-shock-shadow",
+  "hex": "#F78519",
+  "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Peeps-Orange_Swatch.png?v=1651596646",
+  "brand" : "Colourpop"
+},
+{
+  "color": {
+    "L": 72.28958721574305,
+    "A": 22.762648166599007,
+    "B": 46.139770700076134
+  },
+  "name": "lightning-bug",
+  "type": "super-shock-shadow",
+  "hex": "#EEA05C",
+  "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Lightning-Bug_Swatch.png?v=1651596646",
+  "brand" : "Colourpop"
+},
+{
+  "color": {
+    "L": 50.57122019815655,
+    "A": 48.53078609960249,
+    "B": 56.09066986554766
+  },
+  "name": "bubble-bee-eyeshadow",
+  "type": "super-shock-shadow",
+  "hex": "#CF4F12",
+  "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Bubble-Bee_Swatch.png?v=1651596646",
+  "brand" : "Colourpop"
+},
+{
+  "color": {
+    "L": 64.81625919622306,
+    "A": 17.30914152627672,
+    "B": 25.83835878734766
+  },
+  "name": "peeps-yellow-eyeshadow",
+  "type": "super-shock-shadow",
+  "hex": "#C9916F",
+  "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Peeps-Yellow_Swatch.png?v=1651596646",
+  "brand" : "Colourpop"
+},
+{
+  "color": {
+    "L": 82.06363557893995,
+    "A": -2.59781958432892,
+    "B": 28.662845980446395
+  },
+  "name": "pressed-juice-eyeshadow",
+  "type": "super-shock-shadow",
+  "hex": "#DBCC95",
+  "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Pressed-Juice_Swatch.png?v=1651596646",
+  "brand" : "Colourpop"
+},
+{
+  "color": {
+    "L": 81.021869070927,
+    "A": -1.2662871869408843, 
+    "B": 63.35921505064217
+  },
+  "name": "tankini-eyeshadow",
+  "type": "super-shock-shadow",
+  "hex": "#E8C74B",
+  "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Tankini_Swatch.png?v=1651596646",
+  "brand" : "Colourpop"
+},
+{
+  "color": {
+    "L": 71.81325378987778,
+    "A": -32.09277867014543,
+    "B": 19.535001359756144
+  },
+  "name": "peeps-green-eyeshadow",
+  "type": "super-shock-shadow",
+  "hex": "#7CBF8A",
+  "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Peeps-Green_Swatch.png?v=1651596646",
+  "brand" : "Colourpop"
+},
+{
+  "color": {
+    "L": 49.40063007858856,
+    "A": 4.730869638912505,
+    "B": 41.270139976002405
+  },
+  "name": "moonwalk-eyeshadow",
+  "type": "super-shock-shadow", 
+  "hex": "#90712C",
+  "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Moonwalk_Swatch.png?v=1651596646",
+  "brand" : "Colourpop"
+},
+{
+  "color": {
+    "L": 48.65353173785479,
+    "A": 17.69064203800369,
+    "B": 15.18335870182389
+  },
+  "name": "rooftop-cocktails-eyeshadow",
+  "type": "super-shock-shadow",
+  "hex": "#98685A",
+  "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Rooftop-Cocktails_Swatch.png?v=1651596646",
+  "brand" : "Colourpop"
+},
+{
+  "color": {
+    "L": 69.75775484391023,
+    "A": -17.367980813903504,
+    "B": -4.723177106982335
+  },
+  "name": "on-set-eyeshadow",
+  "type": "super-shock-shadow",
+  "hex": "#80B4B1", 
+  "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/On-Set_Swatch.png?v=1651596646",
+  "brand" : "Colourpop"
+},
+{
+  "color": {
+    "L": 66.52808348531217,
+    "A": -38.392075872713924,
+    "B": 0.7649456327885495
+  },
+  "name": "empire-green-eyeshadow",
+  "type": "super-shock-shadow",
+  "hex": "#3AB49E",
+  "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Empire_Swatch.png?v=1651596646",
+  "brand" : "Colourpop"
+},
+{
+  "color": {
+    "L": 69.75775484391023,
+    "A": -17.367980813903504,
+    "B": -4.723177106982335
+  },
+  "name": "mint-4-u-mid-tone-mint-green-eyeshadow",
+  "type": "super-shock-shadow",
+  "hex": "#80B4B1",
+  "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Mint-4-U_Swatch.png?v=1651596646",
+  "brand" : "Colourpop"
+},
+{
+  "color": {
+    "L": 71.96966375862151,
+    "A": 3.155692296621271,
+    "B": -17.184094922635573
+  },
+  "name": "moon-daisy-super-shock-eyeshadow",
+  "type": "super-shock-shadow",
+  "hex": "#A6B0CE",
+  "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Moon-Daisy_Swatch.png?v=1651596646",
+  "brand" : "Colourpop"
+},
+{
+  "color": {
+    "L": 78.19844648084977,
+    "A": -14.248828580075202,
+    "B": -21.572096986536483
+  },
+  "name": "peeps-blue-eyeshadow",
+  "type": "super-shock-shadow",
+  "hex": "#86CBE7",
+  "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Peeps-Blue_Swatch.png?v=1651596646",
+  "brand" : "Colourpop"
+},
+{
+  "color": {
+    "L": 21.02961495656544,
+    "A": -4.702420603688945,
+    "B": -19.21935687373548
+  },
+  "name": "coconut",
+  "type": "super-shock-shadow",
+  "hex": "#0A364E",
+  "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Coconut_Swatch.png?v=1651596646",
+  "brand" : "Colourpop"
+},
+{
+  "color": {
+    "L": 40.51934717286126,
+    "A": 31.12262636554147,
+    "B": -3.9279494981272034
+  },
+  "name": "dreamlover",
+  "type": "super-shock-shadow",
+  "hex": "#8C4B66",
+  "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Dreamlover_Swatch.png?v=1651596646",
+  "brand" : "Colourpop"
+},
+{
+  "color": {
+    "L": 42.75105095516622,
+    "A": 37.68518990312908,
+    "B": -9.723133600879908
+  },
+  "name": "pug-life-eyeshadow",
+  "type": "super-shock-shadow",
+  "hex": "#984B75",
+  "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Pug-Life_Swatch.png?v=1651596646",
+  "brand" : "Colourpop"
+},
+{
+  "color": {
+    "L": 61.93755881104266,
+    "A": 37.43818511695651,
+    "B": -24.3556265373686
+  },
+  "name": "peeps-lavender-eyeshadow",
+  "type": "super-shock-shadow",
+  "hex": "#C37EC0",
+  "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Peeps-Lavender_Swatch.png?v=1651596646",
+  "brand" : "Colourpop"
+},
+{
+  "color": {
+    "L": 68.85367784864131,
+    "A": 14.900151108675763,
+    "B": -24.065168420166373
+  },
+  "name": "rose-garden-eyeshadow",
+  "type": "super-shock-shadow",
+  "hex": "#AEA1D2",
+  "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Rose-Garden_Swatch.png?v=1651596646",
+  "brand" : "Colourpop"
+},
+{
+  "color": {
+    "L": 62.83810304441937,
+    "A": 19.709292617897447,
+    "B": -24.93327610019498
+  },
+  "name": "ripple-super-shock-shadow",
+  "type": "super-shock-shadow", 
+  "hex": "#A68EC3",
+  "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Ripple_Swatch.png?v=1651596646",
+  "brand" : "Colourpop"
+},
+{
+  "color": {
+    "L": 22.688350956953812,
+    "A": 6.53741419620249,
+    "B": -1.4671526168935967
+  },
+  "name": "bae-eyeshadow",
+  "type": "super-shock-shadow",
+  "hex": "#3F3338",
+  "swatch": "https://cdn.shopify.com/s/files/1/1338/0835/files/Bae_Swatch.png?v=1651596646",
+  "brand" : "Colourpop"
+}
+]

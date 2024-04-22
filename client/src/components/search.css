@@ -1,0 +1,16 @@
+form {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.Cascader {
+    width: auto;
+}
+
+.submit {
+    background-color: #006d77;
+    
+}
